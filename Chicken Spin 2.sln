@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chicken Spin 2.Plugins", "Chicken Spin 2.Plugins.csproj", "{604B505C-FE2C-E345-3D06-1022E0760257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chicken Spin 2", "Chicken Spin 2.csproj", "{21542844-8F87-0C76-A9D6-72EB6AA111FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chicken Spin 2.Editor", "Chicken Spin 2.Editor.csproj", "{EED4522E-5F6A-A771-54A8-E7E26317002A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604B505C-FE2C-E345-3D06-1022E0760257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604B505C-FE2C-E345-3D06-1022E0760257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604B505C-FE2C-E345-3D06-1022E0760257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604B505C-FE2C-E345-3D06-1022E0760257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21542844-8F87-0C76-A9D6-72EB6AA111FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21542844-8F87-0C76-A9D6-72EB6AA111FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21542844-8F87-0C76-A9D6-72EB6AA111FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21542844-8F87-0C76-A9D6-72EB6AA111FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EED4522E-5F6A-A771-54A8-E7E26317002A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED4522E-5F6A-A771-54A8-E7E26317002A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED4522E-5F6A-A771-54A8-E7E26317002A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED4522E-5F6A-A771-54A8-E7E26317002A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
